@@ -28,7 +28,7 @@ This assignment demonstrates proficiency in Oracle 21c Multi-tenant Architecture
 
 tricia_nshuti_pdb_27253/
 ├── README.md
-└── screenshots/
+└── Screenshots/
 ├── 01_database_connection.png
 ├── 02_pdb_creation.png
 ├── 03_pdb_open.png
@@ -41,13 +41,13 @@ tricia_nshuti_pdb_27253/
 
 ---
 
-## Task 1: Main PDB Creation (2 Points)
+## Task 1: Main PDB Creation
 
 **Objective:** Create a permanent pluggable database for storing coursework.
 
 **PDB Details:**
 
-- PDB Name: `TR_PDB_27253`
+- PDB Name: `tr_pdb_27253`
 - Admin User: `tricia_plsqlauca_27253`
 - Status: READ WRITE (Auto-open enabled)
 
@@ -67,13 +67,13 @@ _Verification showing PDB in READ WRITE mode_
 
 ---
 
-## Task 2: PDB Lifecycle Management (2 Points)
+## Task 2: PDB Lifecycle Management
 
 **Objective:** Demonstrate PDB creation and deletion process.
 
 **Temporary PDB Details:**
 
-- PDB Name: `TR_TO_DELETE_PDB_27253`
+- PDB Name: `tr_to_delete_pdb_27253`
 - Lifecycle: Created → Opened → Closed → Dropped with datafiles
 
 ### Task 2 Evidence
@@ -86,7 +86,7 @@ _PDB permanently deleted and verified_
 
 ---
 
-## Task 3: Oracle Enterprise Manager (1 Point)
+## Task 3: Oracle Enterprise Manager
 
 **Objective:** Configure and access OEM for database management.
 
