@@ -26,20 +26,22 @@ This assignment demonstrates proficiency in Oracle 21c Multi-tenant Architecture
 
 ## Repository Contents
 
+```
 tricia_nshuti_pdb_27253/
 ├── README.md
-└── Screenshots/
+└── screenshots/
 ├── 01_database_connection.png
 ├── 02_pdb_creation.png
-├── 03_open.png
+├── 03_pdb_open.png
 ├── 04_show_pdbs.png
 ├── 05_delete_pdb_creation.png
-├── 06_pdb_delete.png
-├── 07_configure.png
+├── 06_pdb_deleted.png
+├── 07_oem_configure.png
 ├── 08_oem_dashboard.png
 └── 09_oem_tablespaces.png
+```
 
-## Task 1: Main PDB Creation 
+## Task 1: Main PDB Creation
 
 ## Objective
 
@@ -96,7 +98,7 @@ _PDB permanently deleted and verified_
 
 ---
 
-## Task 3: Oracle Enterprise Manager 
+## Task 3: Oracle Enterprise Manager
 
 ## Objective
 
