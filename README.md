@@ -24,23 +24,6 @@ This assignment demonstrates proficiency in Oracle 21c Multi-tenant Architecture
 
 ---
 
-## Repository Contents
-
-tricia_nshuti_pdb_27253/
-├── README.md
-└── Screenshots/
-├── 01_database_connection.png
-├── 02_pdb_creation.png
-├── 03_pdb_open.png
-├── 04_show_pdbs.png
-├── 05_delete_pdb_creation.png
-├── 06_pdb_deleted.png
-├── 07_oem_configure.png
-├── 08_oem_dashboard.png
-└── 09_oem_tablespaces.png
-
----
-
 ## Task 1: Main PDB Creation
 
 **Objective:** Create a permanent pluggable database for storing coursework.
@@ -59,7 +42,7 @@ _Connected as SYSDBA_
 ![PDB Creation](screenshots/02_pdb_creation.png)
 _PDB creation command and success_
 
-![PDB Open](screenshots/03_pdb_open.png)
+![PDB Open](screenshots/03_open.png)
 _PDB opened and state saved_
 
 ![Show PDBs](screenshots/04_show_pdbs.png)
@@ -81,7 +64,7 @@ _Verification showing PDB in READ WRITE mode_
 ![Temp PDB Created](screenshots/05_delete_pdb_creation.png)
 _Temporary PDB created_
 
-![PDB Deleted](screenshots/06_pdb_deleted.png)
+![PDB Deleted](screenshots/06_pdb_delete.png)
 _PDB permanently deleted and verified_
 
 ---
@@ -98,7 +81,7 @@ _PDB permanently deleted and verified_
 
 ### Task 3 Evidence
 
-![OEM Configure](screenshots/07_oem_configure.png)
+![OEM Configure](screenshots/07_configure.png)
 _Port configuration_
 
 ![OEM Dashboard](screenshots/08_oem_dashboard.png)
